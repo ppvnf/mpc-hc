@@ -1,4 +1,8 @@
-# Media Player Classic - Home Cinema
+![153171289-0dbb60af-3a7e-41a5-a559-58da2618b50b](https://user-images.githubusercontent.com/73800734/200967040-8c06e7be-4937-4e98-b5b6-cc9960d8d12c.png)
+
+
+#
+Media Player Classic - Home Cinema
 
 Media Player Classic - Home Cinema (MPC-HC) is a free and open-source video and audio player for Windows. MPC-HC is based on the original Guliverkli project and contains many additional features and bug fixes.
 
